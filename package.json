@@ -1,21 +1,7 @@
 {
-  "name": "auth-crud",
+  "name": "staff-record-management",
   "version": "1.0.0",
-  "description": "A full-stack application for managing companies and users with role-based access control.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Olaf0321/auth-crud.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/Olaf0321/auth-crud/issues"
-  },
-  "homepage": "https://github.com/Olaf0321/auth-crud#readme"
+  "description": "A full-stack staff and career record management platform with AI-powered audio processing.",
+  "private": true,
+  "license": "MIT"
 }
