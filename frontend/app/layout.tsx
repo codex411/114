@@ -8,13 +8,8 @@ import LogoutWarning from '@/components/LogoutWarning';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Smart Staff',
+  title: 'Staff Record Management',
   description: 'A system for creating staff sheets from audio files',
-  icons: {
-    icon: '/logo1.svg',
-    shortcut: '/logo1.svg',
-    apple: '/logo1.svg',
-  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
